@@ -77,3 +77,4 @@ crashlytics-build.properties
 /VR Room/Library
 /VR Room/Logs
 /VR Room/UserSettings
+*.json
